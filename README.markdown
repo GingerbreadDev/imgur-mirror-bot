@@ -29,9 +29,10 @@ by moderators & users.
 
 ## FAQ
 
-**Q.** - Your "Upload Page" and "Direct Link" links both point to the same thing.
+**Q.** - Your "Upload Page" and "Direct Link" links both point to the same thing.  
+
 **A.** - If you have RES (Reddit Enhancement Suite) enabled with the inline image viewer, it
-will intelligently transform imgur.com page links to direct image links.
+will intelligently transform imgur.com page links to direct image links.  
 
 ## Tell me more
 You're free to contact me by messaging the bot: [Compose a Message](http://reddit.com/message/compose?to=imgur-mirror-bot)
