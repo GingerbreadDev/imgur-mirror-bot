@@ -33,7 +33,9 @@ by moderators & users.
 
 **A.** - If you have RES (Reddit Enhancement Suite) enabled with the inline image viewer, it
 will intelligently transform imgur.com page links to direct image links.  
-  
+
+-----
+
 **Q.** - I posted an image link, but the bot didn't mirror it!  
   
 **A.** - imgur-mirror-bot will only mirror images if some conditions are met: The image is not already on imgur.com,
