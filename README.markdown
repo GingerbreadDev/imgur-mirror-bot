@@ -14,7 +14,7 @@ makes sure you never miss out on that picture of the cute cat with
 a tortilla on its head.
 
 2. **Choice** - A lot of redditors do their redditing from their jobs or schools - 
-some work places will block common image hosts, websites like facebook or
+these will often block common image hosts, websites like facebook or
 tumblr (from which images are commonly linked), etc. imgur-mirror-bot
 provides an alternative to these users.
 
