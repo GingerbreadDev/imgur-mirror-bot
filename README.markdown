@@ -36,9 +36,8 @@ will intelligently transform imgur.com page links to direct image links.
   
 **Q.** - I posted an image link, but the bot didn't mirror it!  
   
-**A.** - imgur-mirror-bot will only mirror images if some conditions are met:
-* The image is not already on imgur.com.
-* The image has a positive score above a certain value.
+**A.** - imgur-mirror-bot will only mirror images if some conditions are met: The image is not already on imgur.com,
+the link has a positive score above a certain value, and has at least one other comment.
 
 These conditions are subject to change as the bot is refined.
 
