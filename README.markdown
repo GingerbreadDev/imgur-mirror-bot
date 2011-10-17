@@ -1,6 +1,9 @@
 # imgur-mirror-bot
 http://www.reddit.com/user/imgur-mirror-bot
 
+## Changelog
+* *Oct. 17th*: added proof-of-concept check for untagged NSFW links through image analysis  
+* *Oct. 17th*: added friendly warning for facebook photo links when there's a possible privacy concern
 
 ## What?
 imgur-mirror-bot is a simple little bot that scans new reddit
