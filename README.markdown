@@ -2,8 +2,8 @@
 http://www.reddit.com/user/imgur-mirror-bot
 
 ## Changelog
-* *Oct. 17th*: added proof-of-concept check for untagged NSFW links through image analysis  
-* *Oct. 17th*: added friendly warning for facebook photo links when there's a possible privacy concern
+* *Feb 24th/25th* - The bot now attempts to mirror images to both Minus.com and Imgur.com
+* *Feb 24th* - Tweaked upload page links to prevent RES from transforming them into direct links.
 
 ## What?
 imgur-mirror-bot is a simple little bot that scans new reddit
@@ -35,7 +35,8 @@ by moderators & users.
 **Q.** - Your "Upload Page" and "Direct Link" links both point to the same thing.  
 
 **A.** - If you have RES (Reddit Enhancement Suite) enabled with the inline image viewer, it
-will intelligently transform imgur.com page links to direct image links.  
+will intelligently transform imgur.com page links to direct image links. 
+*Update: worked around this issue by appending upload page links with a hash portion*
 
 -----
 
